@@ -1,6 +1,10 @@
+## Deployment
+https://my-moviz-frontend-five.vercel.app/
+
+
 # MyMoviz - Backend
 
-Mymoviz is a project that was made using React during my Web Developper coding bootcamp at La Capsule, Paris.
+Mymoviz is a project that was made using React and Next JS during my Web Developper coding bootcamp at La Capsule, Paris. 
 
 It is a website that displays the latest big releases dynamically by communicating with the Movie Database's API.
 
@@ -33,12 +37,9 @@ Frontend:
 + hooks, useEffect
 + components
 + props
++ environment variables
 + inverse data flow
 
 Backend:
 + familiarization with express
 + sending requests to APIs and web services
-
-
-## Deployment
-https://mymoviz.vercel.app/
